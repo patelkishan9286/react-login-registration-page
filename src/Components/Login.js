@@ -8,7 +8,6 @@ import {
   Paper,
   IconButton,
   InputAdornment,
-  Box,
   Typography,
 } from "@mui/material";
 import {
