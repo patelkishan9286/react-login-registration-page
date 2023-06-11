@@ -1,11 +1,29 @@
-<!--- The following README.md sample file was adapted from https://gist.github.com/PurpleBooth/109311bb0361f32d87a2#file-readme-template-md by Gabriella Mosquera for academic use --->
-
 # Tutorial 3
 
 - _Date Created_: 24 May 2023
 - _Last Modification Date_: 10 June 2023
-- _Live Demo_: <https://csci5709-s23-b00929225-assignment1.netlify.app/>
-- _Tutorial 3 GitLab Repository_: <https://git.cs.dal.ca/ksp/csci5709_kishan_patel_b00929225_assignments/-/tree/main/Assignment1>
+- _Live Demo_: <https://csci5709-s23-b00929225-tutorial3.netlify.app/>
+- _Tutorial 3 GitLab Repository_: <https://git.cs.dal.ca/ksp/csci5709_kishan_patel_b00929225_tutorials/>
+
+# User Registration and Profile Page
+
+This is a sample app that demonstrates a user registration form and a profile page using React, Material-UI, and React Router.
+
+The project consists of the following files:
+
+- `App.js`: The main component that sets up the routing and provides the user context.
+- `Login.js`: The component that renders the user registration form.
+- `Profile.js`: The component that renders the user profile page.
+- `UserContext.js`: The user context that stores the user data.
+- `index.js`: The entry point of the application.
+
+## Features
+
+- User registration form with input validations for first name, last name, email, password, and confirm password.
+- Redirects to the profile page upon successful registration.
+- Profile page that displays the user's first name, last name, and email.
+- Responsive design using Material-UI's responsive grid system.
+- Error handling for form validation and empty fields.
 
 ## Authors
 
