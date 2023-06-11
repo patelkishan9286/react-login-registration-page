@@ -3,7 +3,8 @@
 - _Date Created_: 24 May 2023
 - _Last Modification Date_: 10 June 2023
 - _Live Demo_: <https://csci5709-s23-b00929225-tutorial3.netlify.app/>
-- _Tutorial 3 GitLab Repository_: <https://git.cs.dal.ca/ksp/csci5709_kishan_patel_b00929225_tutorials/>
+- _Tutorial 3 GitLab Repository_: <https://git.cs.dal.ca/ksp/csci5709_kishan_patel_b00929225_tutorials/-/tree/main/Tutorial3>
+- _All Tutorials GitLab Repository_: <https://git.cs.dal.ca/ksp/csci5709_kishan_patel_b00929225_tutorials/>
 
 # User Registration and Profile Page
 
